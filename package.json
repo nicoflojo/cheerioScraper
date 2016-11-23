@@ -1,0 +1,29 @@
+{
+  "name": "cheerio-scraper",
+  "version": "0.0.1",
+  "description": "scrapin da web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoflojo/cheerioScraper.git"
+  },
+  "keywords": [
+    "cheerio",
+    "express",
+    "node"
+  ],
+  "author": "nicoFlojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoflojo/cheerioScraper/issues"
+  },
+  "homepage": "https://github.com/nicoflojo/cheerioScraper#readme",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
